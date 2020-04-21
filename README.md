@@ -1,0 +1,2 @@
+# guesswork
+Approximation of guesswork
